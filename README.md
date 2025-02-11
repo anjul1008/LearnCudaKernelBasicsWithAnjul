@@ -16,8 +16,7 @@ TABLE OF CONTENTS
 5. Code Insights
 6. Further Improvements
 7. Contributing
-8. License
-9. Contact
+8. Contact
 
 -----------------------------------------------------------------------
 PROJECT OVERVIEW
