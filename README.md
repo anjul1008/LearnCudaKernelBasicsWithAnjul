@@ -171,11 +171,6 @@ please feel free to fork the repository and submit a pull request. For any major
 issue first is appreciated to discuss the modifications.
 
 -----------------------------------------------------------------------
-LICENSE
------------------------------------------------------------------------
-This project is licensed under the MIT License. Please refer to the LICENSE file for more details.
-
------------------------------------------------------------------------
 CONTACT
 -----------------------------------------------------------------------
 For any questions, suggestions, or feedback, you can reach out via:
@@ -183,6 +178,7 @@ For any questions, suggestions, or feedback, you can reach out via:
     Email: anjuljangir@gmail.com
     GitHub: anjul1008 (https://github.com/anjul1008)
 
-=======================================================================
+-----------------------------------------------------------------------
 Happy coding and enjoy your journey into CUDA programming!
-=======================================================================
+-----------------------------------------------------------------------
+
